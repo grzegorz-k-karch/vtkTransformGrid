@@ -12,7 +12,7 @@
           <Group name="filters"/>
         </ProxyGroupDomain>
         <DataTypeDomain name="input_type">
-          <DataType value="vtkRectilinearGrid"/>
+          <DataType value="vtkDataSet"/>
         </DataTypeDomain>
       </InputProperty>
 
